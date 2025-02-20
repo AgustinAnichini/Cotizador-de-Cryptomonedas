@@ -31,4 +31,16 @@
 
 ---
 
+## Instalación y ejecución del proyecto
+
+Para comenzar a trabajar con este proyecto, sigue estos pasos:
+
+```cmd
+git clone <url-del-repositorio>
+cd <nombre-del-directorio-del-proyecto>
+npm install
+npm run dev
+
+---
+
 ### ¡Gracias por visitar el proyecto! 🪙
